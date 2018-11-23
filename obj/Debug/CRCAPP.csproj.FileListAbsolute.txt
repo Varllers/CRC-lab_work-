@@ -1,0 +1,10 @@
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\bin\Debug\CRCAPP.exe.config
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\bin\Debug\CRCAPP.exe
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\bin\Debug\CRCAPP.pdb
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\obj\Debug\CRCAPP.csprojAssemblyReference.cache
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\obj\Debug\CRCAPP.Form1.resources
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\obj\Debug\CRCAPP.Properties.Resources.resources
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\obj\Debug\CRCAPP.csproj.GenerateResource.cache
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\obj\Debug\CRCAPP.csproj.CoreCompileInputs.cache
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\obj\Debug\CRCAPP.exe
+C:\Users\Lutik\source\repos\CRCAPP\CRCAPP\obj\Debug\CRCAPP.pdb
